@@ -2,8 +2,8 @@
 <h5>Eu sou um programador iniciante apaixonado por computadores desde criança. Tenho experiência com projetos usando Javascript, HTML e CSS. Ano que vem estarei entrando na faculdade de Análise de Desenvolvimento de Sistemas para aprofundar mais meus estudos.</h5>
 
 <a href="https://github.com/isaaacwillian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaaacwillian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaacwillian&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isaaacwillian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaacwillian&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
