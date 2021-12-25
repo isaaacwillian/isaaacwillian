@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h5>Eu sou um programador iniciante apaixonado por computadores desde criança. Tenho experiência com projetos usando Javascript, HTML e CSS. Ano que vem estarei entrando na faculdade de Análise de Desenvolvimento de Sistemas para aprofundar mais meus estudos.</h5>
+<h5>Eu sou um programador iniciante apaixonado por computadores desde criança. Tenho experiência com projetos usando Javascript, HTML e CSS. Ano que vem estarei entrando na faculdade de Análise de Desenvolvimento de Sistemas para aprofundar mais meus estudos. No momento estou aprendendo Node.js e React</h5>
 
 <a href="https://github.com/isaaacwillian">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaaacwillian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
