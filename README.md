@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
 - 💻 Tenho aprendido mais sobre desenvolvimento front-end 
-- 👩🏻‍💻 Atualmente focada em ReactJS / NodeJS
+- 👩🏻‍💻 Atualmente focado em ReactJS / NodeJS
 
 ##
 
