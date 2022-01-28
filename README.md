@@ -1,5 +1,10 @@
-### Hi there 👋
-<h5>Eu sou um programador iniciante apaixonado por computadores desde criança. Tenho conhecimento em Javascript, HTML e CSS. Estou cursando Análise de Desenvolvimento de Sistema no IFPE. No momento estou aprofundando meus conhecimentos em React e Node.js</h5>
+### Hi there, I'm Isaac Willian 👋
+
+- 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
+- 💻 Tenho aprendido mais sobre desenvolvimento front-end 
+- 👩🏻‍💻 Atualmente focada em ReactJS / NodeJS
+
+##
 
 <a href="https://github.com/isaaacwillian">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaaacwillian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
