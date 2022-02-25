@@ -1,8 +1,8 @@
 ### Hi there, I'm Isaac Willian 👋
 
 - 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
-- 💻 Tenho aprendido mais sobre desenvolvimento front-end 
-- 👩🏻‍💻 Atualmente focado em ReactJS / NodeJS
+- 💻 Afinidade maior com o front-end 
+- 👩🏻‍💻 No front-end o meu foco é com o framework ReactJS, no back-end o meu foco está no NodeJS
 
 ##
 
@@ -16,6 +16,7 @@
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt"Isaac-Node.js" height="36" width="36" src="https://img.icons8.com/fluency/240/000000/node-js.png"/>
+  <img align="center" alt"Isaac-Node.js" height="40" width="40" src="https://img.icons8.com/color/452/mongodb.png"/>
 </div>
 </div>
   
