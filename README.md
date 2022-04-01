@@ -11,13 +11,14 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaacwillian&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="icon-typescript" height="30" width="40" src="https://img.icons8.com/color/344/typescript.png">
+ <img align="center" alt="icon-typescript" height="40" width="40" src="https://img.icons8.com/color/344/typescript.png">
   <img align="center" alt="icon-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt"icon-Node.js" height="36" width="36" src="https://img.icons8.com/fluency/240/000000/node-js.png"/>
+ <img align="center" alt"icon-mongodb.js" height="40" width="40" src="https://img.icons8.com/color/452/mongodb.png"/>
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt"icon-Node.js" height="36" width="36" src="https://img.icons8.com/fluency/240/000000/node-js.png"/>
-  <img align="center" alt"icon-mongodb.js" height="40" width="40" src="https://img.icons8.com/color/452/mongodb.png"/>
+  
 </div>
 </div>
   
