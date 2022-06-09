@@ -1,7 +1,7 @@
 ### Hi there, I'm Isaac Willian 👋
 
 - 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
-- 👩🏻‍💻 Atualmente focado em ReactJS, React Native e NodeJS.
+- 👩🏻‍💻 Atualmente focado em ReactJS e NodeJS com Typescript.
   
 ##
 
